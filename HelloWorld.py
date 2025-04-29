@@ -1,1 +1,3 @@
-print("Hello World")
+print("Hello Glatz")
+print("ich bin 12")
+
